@@ -111,7 +111,7 @@ customer_churn_ml/
 │   └── customer_churn_logistic_pipeline.pkl
 │
 └── README.md
-
+```
 ## 🚀 Skills Demonstrated
 - Classification modeling
 - Handling class imbalance
